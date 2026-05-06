@@ -5,7 +5,7 @@
 
 ##  Problem Statement
 
-Indian retail investors face information overload — hundreds of financial articles are published daily across MoneyControl, Economic Times, and Business Standard. **StockPulse** automates the triage:
+Indian retail investors face information overload where hundreds of financial articles are published daily across MoneyControl, Economic Times, and Business Standard. **StockPulse** automates the triage:
 
 - Pulls live RSS feeds from major Indian financial publishers
 - Filters out non-market content (politics, sports, US markets)
