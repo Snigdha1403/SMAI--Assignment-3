@@ -45,7 +45,7 @@ stockpulse/
 
 ---
 
-## ⚙️ Setup & Run
+##  Setup & Run
 
 ```bash
 # 1. Clone the repo
@@ -100,7 +100,7 @@ Keyword Pre-Filter     ← fast domain-specific rule check
 
 ---
 
-## 📰 RSS Sources
+## RSS Sources
 
 | Source | Feed |
 |---|---|
