@@ -1,4 +1,4 @@
-# StockPulse — Indian Market Intelligence Terminal
+# StockPulse — "Indian Market Intelligence Terminal"
 
 > Real-time Indian stock market news aggregator with zero-shot sentiment classification and LLM-powered summaries.
 
